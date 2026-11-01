@@ -1,26 +1,26 @@
 {
   "/": {
-    "down": false,
-    "since": null
+    "down": true,
+    "since": "2026-11-01T00:56:21.624Z"
   },
   "/play": {
-    "down": false,
-    "since": null
+    "down": true,
+    "since": "2026-11-01T00:56:21.624Z"
   },
   "/explore": {
-    "down": false,
-    "since": null
+    "down": true,
+    "since": "2026-11-01T00:56:21.624Z"
   },
   "/shop": {
-    "down": false,
-    "since": null
+    "down": true,
+    "since": "2026-11-01T00:56:21.624Z"
   },
   "/docs": {
-    "down": false,
-    "since": null
+    "down": true,
+    "since": "2026-11-01T00:56:21.624Z"
   },
   "/ideas": {
-    "down": false,
-    "since": null
+    "down": true,
+    "since": "2026-11-01T00:56:21.624Z"
   }
 }
